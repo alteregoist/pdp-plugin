@@ -1,0 +1,9 @@
+{
+  "name": "pdp",
+  "version": "0.1.0",
+  "description": "상품 이미지와 정보를 입력하면 모듈 기반 상세페이지를 자동 생성하는 플러그인. HTML+TailwindCSS 출력, fal.ai 이미지 생성, Playwright 이미지 캡처 지원.",
+  "author": {
+    "name": "Insoo"
+  },
+  "keywords": ["product", "detail-page", "e-commerce", "html", "image-generation", "tailwindcss"]
+}
